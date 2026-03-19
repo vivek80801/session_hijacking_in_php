@@ -4,5 +4,5 @@ By default php does not have all the cookie protection. this way anyone can stea
 
 ## Video
 
-![click here](https://youtu.be/V4_KvWtWi8E?si=CKHmi6TLcTWTq4p1)
+![./session_hijacking.png](https://youtu.be/V4_KvWtWi8E?si=CKHmi6TLcTWTq4p1)
 
